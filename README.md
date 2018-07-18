@@ -15,3 +15,9 @@ app下
 	        implementation 'com.github.Ayaseling:ImagePhoto:v1.0'
 	}
  ```
+
+使用时传入图片地址集合  List<String>  list<br>
+position为多宫格图片显示时点击的位置
+```java
+ ImageDialog dialog = new ImageDialog(context,R.style.mydialogstyle,list,position);
+```
