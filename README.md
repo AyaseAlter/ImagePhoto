@@ -9,10 +9,9 @@ project下
 		}
 	}
  ```
-  <br>
- app下
+app下
 ```java
-  dependencies {
+	dependencies {
 	        implementation 'com.github.Ayaseling:ImagePhoto:v1.0'
 	}
  ```
